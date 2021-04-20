@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    color: darkred;
+    font: fantasy;
+}
+h2{
+    color: darkred;
+    font: fantasy;
+}
+p{
+    color: darkblue;
+    font: icon;
+    font-size: 120%;
+}
+
